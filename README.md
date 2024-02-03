@@ -10,7 +10,7 @@ J'ai créé cette page web afin de faciliter le travail de ma professeur de math
 ## Fonctionnalités
 - **Navigation Facile**: La barre de navigation permet un accès rapide aux différentes sections du site.
 - **Gifs**: Le site intègre une image GIF drôle pour ajouter une touche d'humour (demander par ma professeur).
-- **Document**: Les documents sont partagés grâce à Google Drive, Ce qui facilité donc si nous avons besoin de rajouter des fichiers ou en enlever. J'ai aussi mis ce site sous forme de dossier car s'il n'y a plus de wifi les fichiers sont stockés localement et le site est accessible grâce à 'index.html' .
+- **Document**: Les documents sont partagés grâce à Google Drive, Ce qui facilité donc si nous avons besoin de rajouter des fichiers ou en enlever. J'ai aussi mis ce site sous forme de dossier car s'il n'y a plus de wifi les fichiers sont stockés localement et le site est accessible grâce à `index.html` .
 
 ## Utilisation
 1. Ouvrez le fichier `index.html` dans un navigateur web pour accéder à la page d'accueil.
